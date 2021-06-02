@@ -12,6 +12,8 @@
 
 ## 使用方法
 
+**上网不涉密，涉密不上网！**
+
 位于 src 目录下的 `buaa-login.sh` 可以在 Linux/Unix 环境下单独使用
 
 可以手动拷贝 `src/buaa-login.sh` 到 openwrt 的 `/usr/sbin` 目录下，之后执行命令
